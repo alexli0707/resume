@@ -135,7 +135,9 @@
 
 # 开源项目
 
-### [pyforum](https://github.com/alexli0707/pyforum)：一个练手项目,本意是打算山寨medium(https://medium.com/),刚完成后台.部署在国外linode实例上(http://www.iwasabee.com/),做该项目的初衷在于发现php的开发者比较热衷于插件化持续迭代开发某个开源项目或者框架,比如早年的discuz,以及现在的各种主流php框架,想通过在进行这个项目的过程中找到插件化开发以及自动化部署的解决方案.
+### [pyforum](https://github.com/alexli0707/pyforum)：
+- 一个练手项目,本意是打算山寨medium(https://medium.com/),刚完成后台.部署在国外linode实例上(http://www.iwasabee.com/),做该项目的初衷在于发现php的开发者比较热衷于插件化持续迭代开发某个开源项目或者框架,比如早年的discuz,以及现在的各种主流php框架,想通过在进行这个项目的过程中找到插件化开发以及自动化部署的解决方案.
+ 
  ---
 
 # 致谢
