@@ -11,7 +11,7 @@
  - 教育:本科/集美大学 数学与应用数学(2006-2010)
  - 工作年限：6年
  - Github：https://github.com/alexli0707
- - 期望职位：Python后端工程师
+ - 期望职位：Python后端 / Android工程师
 
 
 ---
