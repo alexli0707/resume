@@ -40,9 +40,9 @@
 
 ---
 
-#项目经验
+# 项目经验
 
-###电竞助手&新游部落(Python):
+### 电竞助手&新游部落(Python):
 - 项目描述: 官网(http://www.newgamer.com/),为移动端提供api接口以及为项目提供管理后台.
 - 运行平台：Centos6.6 +python2.7+ virtualenv+ uWSGI + Flask + Nginx + Mysql + Redis
 - 工作内容：
@@ -50,7 +50,7 @@
 			
 - IDE以及版本控制：PyCharm + Git.
 
-###八爪鱼(Python):
+### 八爪鱼(Python):
 - 项目描述: 为与个推联运提供支持的项目,预先在后台通过模板填入相关数据,产生游戏或者应用的推广模板,比如这个(https://bzy.newgamer.com/m/themes/10000000000055),提供游戏相关攻略以及下载
 - 运行平台：Centos6.6 +python2.7+ virtualenv+ uWSGI + Flask + Nginx + Mysql + Redis
 - 技术要点：
@@ -61,7 +61,7 @@
 			
 - IDE以及版本控制：PyCharm + Git.
 
-###新游游戏中心(PHP):
+### 新游游戏中心(PHP):
 - 项目描述: 提供联运服务,为android以及h5应用与游戏商提供接入的入口以及指导,同时根据权限暴露对应数据(http://open.newgame.com/)
 - 运行平台：Centos6.6  + php5.6 + laravel 5.3 + mysql +redis +apache
 - 工作内容：
@@ -71,7 +71,7 @@
 			
 - IDE以及版本控制：PhpStorm + Git.
 
-###新游部落(Android):
+### 新游部落(Android):
 - 项目描述: 移动门户应用,提供最新最热游戏资讯动态,可供用户下载以及预约	       游戏.还包括游戏社区功能.
 - 运行平台： Android 4.0及以上
 - 技术要点：
@@ -83,7 +83,7 @@
 			
 - IDE以及版本控制：AndroidStudio + Git.
 
-###GameService SmartPush(智能推送,Android):
+### GameService SmartPush(智能推送,Android):
 - 项目描述: 通过用户数据分析挖掘，为开发者定义用户群体。根据实际运营目的，做真正意义上的精确化推送；通过图表清晰对比每一次的推送的效果，每一个节点游戏数据的变化尽在掌控之中。推送（数据指标）、游戏内IM、玩家P2P社交等，紧紧围绕游戏而设计，增强游戏黏性.
 - 运行平台： Android 2.2及以上
 - 技术要点：
@@ -96,14 +96,14 @@
 
 - IDE以及版本控制：AndroidStudio + Git.
 
-###GameService IM SDK(Android):
+### GameService IM SDK(Android):
 - 项目描述: 提供开放式Api的IM SDK
 - 运行平台： Android 2.2及以上
 - 技术要点：
 			
 			1.用户在线和离线之间的连接通道切换维护
 
-###91UP系列(Android):
+### 91UP系列(Android):
 - 项目描述: 教育项目，满足用户移动端线上做题的需求，包含公务员考试、会计从业、司法考试、建造师考试等等热门教育应用，一次开发，多版本打包，目前已累积千万用户量.
 - 运行平台： Android 2.2及以上
 - 技术要点：
@@ -113,7 +113,7 @@
 	        3.多版本打包发布
             4.缓存优化以及本地数据存储与展示策略
 
-###非学历教育应用App(Android):
+### 非学历教育应用App(Android):
 - 项目描述: 国家教育部指定项目-全国非学历教育项目手机端Android版本，帮助用户利用移动端完成学历教育，有课程做题练习，文档阅读以及视频学习.
 - 运行平台： Android 2.2及以上
 - 技术要点：
