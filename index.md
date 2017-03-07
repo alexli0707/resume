@@ -64,9 +64,7 @@
 ### 新游游戏中心(PHP):
 - 项目描述: 提供联运服务,为android以及h5应用与游戏商提供接入的入口以及指导,同时根据权限暴露对应数据(http://open.newgame.com/)
 - 运行平台：Centos6.6  + php5.6 + laravel 5.3 + mysql +redis +apache +docker + composer+ gulp
-- 工作内容：
-			
-			亮点基本上没有,通过自学比对yii2以及laravel还有几个主流框架之后选型进行功能的实现.不过发现一些laravel框架上的亮点后在flask现有框架上进行了实现.
+- 工作内容：通过自学比对yii2以及laravel还有几个主流框架之后选型Laravel后进行功能的实现.亮点几乎没有,不过在使用中发现一些laravel框架上的亮点后在flask现有框架上进行了实现.
 			
 			
 - IDE以及版本控制：PhpStorm + Git.
