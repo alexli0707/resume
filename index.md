@@ -18,7 +18,7 @@
 
 # 工作经历
 - 福州新游互联(2016年1月-至今) : Web后端开发(Python),负责项目架构,后台,客户端API接口开发.
-- 福州新游互联(2014年3月-2015年10月) : Android应用开发工作，负责Push和IM的客户端sdk开发以及新游部落开发.
+- 福州新游互联(2014年3月-2015年10月) : Android应用开发工作，负责Push和IM的客户端sdk开发以及新游部落社区开发.
 - 中国网龙(2012年7月-2014年3月) : Android应用开发.
 
 # 技能清单
@@ -131,7 +131,12 @@
 
 
 
-# 开源项目
+# 个人相关
+Github:https://github.com/alexli0707
+
+掘金:https://juejin.im/user/5848f66ea22b9d0058c79a09
+
+简书:http://www.jianshu.com/u/7ec88af44b3b
 
 ### [pyforum](https://github.com/alexli0707/pyforum)：
 - 一个练手项目,本意是打算山寨medium(https://medium.com/),刚完成后台.部署在linode实例上(http://www.iwasabee.com/),做该项目的初衷在于发现php的开发者比较热衷于插件化持续迭代开发某个开源项目或者框架,比如早年的discuz,以及现在的各种主流php框架,想通过在进行这个项目的过程中找到插件化开发以及自动化部署的解决方案.
