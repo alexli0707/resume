@@ -132,11 +132,11 @@
 
 
 # 个人相关
-Github:https://github.com/alexli0707
+Github:[https://github.com/alexli0707](https://github.com/alexli0707)
 
-掘金:https://juejin.im/user/5848f66ea22b9d0058c79a09
+掘金:[https://juejin.im/user/5848f66ea22b9d0058c79a09](https://juejin.im/user/5848f66ea22b9d0058c79a09)
 
-简书:http://www.jianshu.com/u/7ec88af44b3b
+简书:[http://www.jianshu.com/u/7ec88af44b3b](http://www.jianshu.com/u/7ec88af44b3b)
 
 ### [pyforum](https://github.com/alexli0707/pyforum)：
 - 一个练手项目,本意是打算山寨medium(https://medium.com/),刚完成后台.部署在linode实例上(http://www.iwasabee.com/),做该项目的初衷在于发现php的开发者比较热衷于插件化持续迭代开发某个开源项目或者框架,比如早年的discuz,以及现在的各种主流php框架,想通过在进行这个项目的过程中找到插件化开发以及自动化部署的解决方案.
