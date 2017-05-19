@@ -116,7 +116,7 @@
 - 技术要点：
 			
 			1.Sonartype Nexus + Maven内部代码服务器部署，有效解决项目依赖问题
-             2.SonarQube 代码审查，保证代码质量
+            2.SonarQube 代码审查，保证代码质量
 			3.Jenkins 持续集成保证
 			4.Android应用性能优化以及后台被强制结束后恢复应用场景相关
 			5.本地和在线视频播放
@@ -133,7 +133,7 @@
 - IDE以及版本控制：PyCharm + Git.
 
 ### 八爪鱼(Python):
-- 项目描述: 为与个推联运提供支持的项目,预先在后台通过模板填入相关数据,产生游戏或者应用的推广模板,比如这个(https://bzy.newgamer.com/m/themes/10000000000055),提供游戏相关攻略以及下载
+- 项目描述: 为与个推联运提供支持的项目,预先在后台通过模板填入相关数据,产生游戏或者应用的推广模板,[比如这个](https://bzy.newgamer.com/m/themes/10000000000055),提供游戏相关攻略以及下载
 - 运行平台：Centos6.6 +python2.7+ virtualenv+ uWSGI + Flask + Nginx + Mysql + Redis
 - 技术要点：
 			
