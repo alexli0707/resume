@@ -50,7 +50,7 @@
 			
 			1.高效高可读的开发框架搭建(Retrofit+Rxjava+ retrolambda).以优雅的方式完成客户端应用中大量存在的异步事件.
 			2.RecycleView SwipeRefreshLayout CardView等Android Material Design的使用以及常用业务场景深度封装,一般页面开发可做到快速且规范统一.
-  	            3.游戏下载与更新.
+  	          3.游戏下载与更新.
 			4.动画效果运用以及UI表现优化.
 			
 以下片段为一次常规的异步调用以及处理返回.
