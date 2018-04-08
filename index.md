@@ -9,10 +9,10 @@
 
  - 李歆/男/1988 07 07
  - 教育:本科/集美大学 数学与应用数学(2006-2010)
- - 工作年限：7年
- - Github：https://github.com/alexli0707
- - 期望职位：服务端工程师/架构人员
- - 技能语言: Java,PHP, Python
+ - 工作年限:7年
+ - Github:https://github.com/alexli0707
+ - 期望职位:服务端工程师/架构人员
+ - 技能语言:Java,PHP, Python
 
 
 ---
