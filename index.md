@@ -58,6 +58,14 @@
 - IDE以及版本控制：PhpStorm + Git.
 
 
+### 新游约战平台(PHP):
+- 项目描述: 客户端基于H5页面的应用项目,提供王者荣耀与绝地求生游戏的约战服务.
+- 运行平台：Centos6.6 +PHP7.1 +Laravel + Websocket
+- 工作内容：
+			负责项目设计架构以及框架搭建,优化业务瓶颈以及用户体验,因为有其他项目并行所以没负责约战核心功能开发,但是为项目基于h5的实时事件以及约战房间状态提供解决方案,顺便打了一点杂.				
+- IDE以及版本控制：PhpStorm + Git.
+
+
 ### 电竞助手&新游部落(Python):
 - 项目描述: 官网(http://www.newgamer.com/),为移动端提供api接口以及为项目提供管理后台.
 - 运行平台：Centos6.6 +python2.7+ virtualenv+ uWSGI + Flask + Nginx + Mysql + Redis
